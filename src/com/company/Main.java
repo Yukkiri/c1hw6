@@ -33,5 +33,5 @@ public class Main {
         dog2.swim(10);
         dog2.swim(70);
     }
-    //useless comment for pullrequest
+    //useless comment for pull
 }
